@@ -1,0 +1,1 @@
+{ Amplitude.kr(SoundIn.ar(0)); }.value;

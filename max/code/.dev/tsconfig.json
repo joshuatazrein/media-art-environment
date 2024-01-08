@@ -1,0 +1,18 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "module": "CommonJS",
+    "target": "ES5",
+    "ignoreDeprecations": "5.0",
+    "strict": true,
+    "noImplicitAny": true,
+    "sourceMap": false,
+    "outDir": "..",
+    "baseUrl": "src",
+    "lib": ["es5"],
+    "isolatedModules": false
+  },
+  "include": ["src", "index.d.ts"],
+  "exclude": ["../*.js"]
+}

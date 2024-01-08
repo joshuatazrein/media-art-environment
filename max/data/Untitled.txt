@@ -1,0 +1,6 @@
+{
+	"message" : "Unable to launch process",
+	"details" : "window is not defined",
+	"stack" : "ReferenceError: window is not defined\n    at Object.<anonymous> (/Applications/Max.app/Contents/Resources/C74/packages/Node for Max/examples/squiggle/clientpage/js/index.js:6:9)\n    at Module._compile (node:internal/modules/cjs/loader:1101:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Object.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.Module._load (/Applications/Max.app/Contents/Resources/C74/packages/Node for Max/source/lib/nsRunner.js:67:24)\n    at Module.require (node:internal/modules/cjs/loader:1005:19)\n    at require (node:internal/modules/cjs/helpers:94:18)\n    at main (/Applications/Max.app/Contents/Resources/C74/packages/Node for Max/source/lib/nsRunner.js:359:4)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+	"code" : 6
+}
