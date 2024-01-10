@@ -1,7 +1,6 @@
 import type { ReactNode } from 'react'
 import { createContext, useContext } from 'react'
 import type { Socket } from 'socket.io-client'
-import { SocketEvents } from 'types'
 
 type ProviderProps = {
   socket: Socket<SocketEvents> | undefined
